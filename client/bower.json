@@ -1,0 +1,19 @@
+{
+  "name": "test-client-auth",
+  "version": "0.0.0",
+  "authors": [
+    "emmanuel.payet <jakspinning@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.22",
+    "satellizer": "~0.3.3"
+  }
+}
